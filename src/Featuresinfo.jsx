@@ -10,7 +10,7 @@ function Featuresinfo() {
       <div className="relative bg-gray-200 text-black pb-12   overflow-hidden">
        
         <div className="absolute inset-0 z-0 ">
-          <img src="./src/assets/gifs2.gif" alt="background" className="w-full h-full object-cover rotate-180 " />
+          <img src="/assets/gifs2.gif" alt="background" className="w-full h-full object-cover rotate-180 " />
           <div className="absolute inset-0 bg-gray-250/50 opacity-90"></div>
         </div>
         
@@ -27,7 +27,7 @@ function Featuresinfo() {
           
             <div className="relative flex-shrink-0 w-80 md:w-96 bg-white p-6 rounded-xl shadow-lg border-2 border-gray-400 overflow-hidden">
               <div className="absolute inset-0 z-0">
-                <img src="src/assets/gif.gif" alt="Feature 1" className="w-full h-full object-cover" />
+                <img src="/assets/gif.gif" alt="Feature 1" className="w-full h-full object-cover" />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
               </div>
               <div className="relative z-10">
@@ -40,7 +40,7 @@ function Featuresinfo() {
            
             <div className="relative flex-shrink-0 w-80 md:w-96 bg-white p-6 rounded-xl shadow-lg border-2 border-gray-400 overflow-hidden">
               <div className="absolute inset-0 z-0">
-                <img src="./src/assets/gif.gif" alt="Feature 2" className="w-full h-full object-cover" />
+                <img src="/assets/gif.gif" alt="Feature 2" className="w-full h-full object-cover" />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
               </div>
               <div className="relative z-10">
@@ -54,7 +54,7 @@ function Featuresinfo() {
          
             <div className="relative flex-shrink-0 w-80 md:w-96 bg-white p-6 rounded-xl shadow-lg border-2 border-gray-400 overflow-hidden">
               <div className="absolute inset-0 z-0">
-                <img src="./src/assets/gif.gif" alt="Feature 3" className="w-full h-full object-cover" />
+                <img src="/assets/gif.gif" alt="Feature 3" className="w-full h-full object-cover" />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
               </div>
               <div className="relative z-10">
@@ -67,7 +67,7 @@ function Featuresinfo() {
          
             <div className="relative flex-shrink-0 w-80 md:w-96 bg-white p-6 rounded-xl shadow-lg border-2 border-gray-400 overflow-hidden">
               <div className="absolute inset-0 z-0">
-                <img src="./src/assets/gif.gif" alt="Feature 4" className="w-full h-full object-cover" />
+                <img src="/assets/gif.gif" alt="Feature 4" className="w-full h-full object-cover" />
                 <div className="absolute inset-0 bg-black opacity-50"></div>
               </div>
               <div className="relative z-10">

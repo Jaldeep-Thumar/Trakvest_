@@ -12,7 +12,7 @@ function Nav( {scrollToSip}) {
     <>
       <nav className="flex justify-between items-center h-16 bg-gray-800/20 text-black fixed top-0 w-full z-50 px-4 md:px-8">
         <div className="flex items-center">
-          <img src="./src/assets/logo.png" alt="logo" className="opacity-100 h-10 w-10 mr-2" />
+          <img src="/assets/logo.png" alt="logo" className="opacity-100 h-10 w-10 mr-2" />
           <h1 className="font-semibold text-lg">Trakvest</h1>
         </div>
         <div className="hidden md:flex justify-evenly w-1/2">

@@ -18,7 +18,7 @@ function SipCalculater({ scrollRef }) {
     <div ref={scrollRef} className="relative flex items-center justify-center text-white">
       <img
         className="w-screen h-screen relative blur-xs"
-        src="src/assets/gif8.gif"
+        src="/assets/gif8.gif"
         alt="this is background"
       />
 
