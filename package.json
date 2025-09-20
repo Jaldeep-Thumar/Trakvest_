@@ -18,6 +18,7 @@
     "robust-websocket": "^1.0.0",
     "smartapi-javascript": "^1.0.27",
     "tailwindcss": "^4.1.11",
+    "totp-generator": "^2.0.0",
     "useref": "^1.4.4"
   },
   "devDependencies": {
