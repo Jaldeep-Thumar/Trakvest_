@@ -2,7 +2,7 @@
 // We'll use 'axios' to make API calls. You might need to install it.
 // In your terminal: npm install axios
 import axios from 'axios';
-import totp from 'totp-generator'; // Install this: npm install totp-generator
+const totp = require('totp-generator'); // Install this: npm install totp-generator
 
 export default async function handler(req, res) {
   // Get secrets from environment variables

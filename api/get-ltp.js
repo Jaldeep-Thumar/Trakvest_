@@ -1,5 +1,5 @@
 import axios from 'axios';
-import totp from 'totp-generator';
+const totp = require('totp-generator');
 
 // We keep the instrument lookup "phonebook" here on the backend for security and consistency
 const instrumentLookup = {
